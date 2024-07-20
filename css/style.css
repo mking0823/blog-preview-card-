@@ -73,6 +73,7 @@ p{
 body{
      display: grid;
      place-items: center;
+     grid-template-rows: 94% 1fr;
 }
 main{
      max-width:384px ;
