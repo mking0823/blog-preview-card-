@@ -63,6 +63,9 @@ p{
      color: rgb(107, 107, 107);
      align-self: stretch;
 }
+.profile-container span{
+     font-weight: 800;
+}
 /******************************************
 /* LAYOUT
 /*******************************************/
